@@ -5,9 +5,9 @@ from aiogram.utils import executor
 import requests
 import random
 
-TOKEN = "7586295469:AAEMRMIlBb5Nigvv-V7WqZB3WoHgdjzuI_U"
-API_WEATHER = "dd567cb1221b88cbdfec4ecd30167c93"
-API_CURRENCY = "023432c3931874ba1359160c"
+TOKEN = "7586295469:AAEMRMIlBb5NB3WohAQDSdjzuI_U"
+API_WEATHER = "dd567cb122cbdfec4ecd30167c93"
+API_CURRENCY = "023432c4ba1359160c"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
